@@ -1,16 +1,16 @@
-name: Rankup
-author: FVZA
+name: Rankup Reloaded
+author: georgsterman567
 version: 1.2
 
-description: Allows players to pay for new ranks.
-website: http://dev.bukkit.org/server-mods/rank-up/
+description: Allows players to pay for new ranks. With custom messages.
+website: coming soon
 
 main: com.fvza.rankup.Rankup
 depend: [Vault]
 
 commands:
     rankup:
-        description: Pay to rank up to the next rank. 
+        description: Pay to rank up to the next rank. With custom messages.
 permissions:
     rankup.*: 
         description: Give access to all rank up commands. 
