@@ -74,7 +74,7 @@ public class Ranking {
 				}
 			
 				Rankup.perms.playerAddGroup(player, newRank);
-				Language.broadcast( "&b" + player.getDisplayName() + "&3 has ranked up to &b" + newRank + "." );
+				Language.broadcast( &4&l[Forbidden Prison]"&b" + player.getDisplayName() + "&1 has ranked up to &a" + newRank + "." );
 				
 				return true;
 				
